@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+gem 'momentjs-rails', github: 'GBCarpiArtStudio/momentjs-rails', branch: "master"
+
 # Declare your gem's dependencies in gentelella-rails.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
 # development dependencies will be added by default to the :development group.
@@ -13,4 +16,4 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
-gem 'momentjs-rails', github: 'GBCarpiArtStudio/momentjs-rails', branch: "master"
+
