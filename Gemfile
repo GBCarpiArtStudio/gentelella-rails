@@ -14,4 +14,4 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
-gem 'momentjs-rails', github: 'GBCarpiArtStudio/momentjs-rails', tag: "2.18.1"
+gem 'momentjs-rails', github: 'GBCarpiArtStudio/momentjs-rails', tag: "v2.18.1"
