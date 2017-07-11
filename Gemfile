@@ -13,4 +13,4 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
-gem 'momentjs-rails', github: 'GBCarpiArtStudio/momentjs-rails'
+gem 'momentjs-rails', github: 'GBCarpiArtStudio/momentjs-rails', branch: "master"
