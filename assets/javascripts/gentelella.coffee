@@ -2,7 +2,7 @@
 #= require jquery_ujs
 #= require bootstrap
 #= require bootstrap-progressbar
-#= require moment
+# X = require moment
 #= require daterangepicker
 #= require nprogress
 #= require icheck
